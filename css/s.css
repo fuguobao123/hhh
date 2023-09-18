@@ -1,0 +1,38 @@
+#mian{
+	width: 900px;
+	height:600px ;
+	background-color:#00D1ED;
+	margin: auto;
+	}
+#a{
+	width:200px;
+	height:600px ;
+	background-color: #F9F871;
+	float: left;
+}
+#b{
+	position: absolute;
+	width: 900px;
+	height:150px ;
+	background-color: #71FACB;
+}
+#d{
+	position: absolute;
+	top:508px;
+	width: 900px;
+	height:100px ;
+	background-color: #71FACB;
+}
+#f{
+	width: 200px;
+	height:600px ;
+	background-color: #F9F871;
+	float: right;
+}
+#g{
+	position: absolute;
+	top: 158px;
+	width: 900px;
+	height:80px ;
+	background-color: #00B5FF;
+}
